@@ -14,6 +14,174 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 ### 2025
 <div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/news/2512Otness.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Karl Otness, Laure Zanna, Joan Bruna</strong><br>
+    <a href="https://doi.org/10.1088/2632-2153/ae1a36" target="_blank"><strong>Data-driven multiscale modeling for correcting dynamical systems</strong></a><br>
+    <i>Machine Learning: Science and Technology</i> <strong>DOI</strong>: 10.1088/2632-2153/ae1a36
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/2510Shamekh.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'gorman</strong><br>
+    <a href="https://doi.org/10.22541/au.176185709.98292011/v1" target="_blank"><strong>Data-driven Modeling of Stratiform and Convective Rain Area</strong></a><br>
+    <i>Authorea Preprint</i> <strong>DOI</strong>: 10.22541/au.176185709.98292011/v1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 400px; height: 100px; overflow: hidden; margin-right: -10px;">
+    <img src="/images/news/2512framework.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Laure Zanna, William Gregory, Pavel Perezhogin, Aakash Sane, Cheng Zhang, Alistair Adcroft, Mitch Bushuk, Carlos Fernandez-Granda, Brandon Reichl, Dhruv Balwada, Julius Busecke, William Chapman, Alex Connolly, Danni Du, Kelsey Everard, Fabrizio Falasca, Renaud Falga, David Kamm, Etienne Meunier, Qi Liu, Antoine Nasser, Matthew Pudig, Andrew Shao, Julia L. Simpson, Linus Vogt, Jiarong Wu</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2510.22676" target="_blank"><strong>A Framework for Hybrid Physics-AI Coupled Ocean Models</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2510.22676
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2507Perezhogin.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2025GL117046" target="_blank"><strong>Generalizable neural‐network parameterization of mesoscale eddies in idealized and global ocean models</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2025GL117046
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2511DanniDu.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Danni Du, Feiyu Lu, Alistair Adcroft.</strong><br>
+    <a href="https://doi.org/10.22541/essoar.176083747.76188196/v2" target="_blank"><strong>Reducing Model Biases with Machine Learning Corrections Derived from Ocean Data Assimilation Increments</strong></a><br>
+    <i>Authorea Preprints</i> <strong>DOI</strong>:10.22541/essoar.176083747.76188196/v2
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2511Chapman2.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Yingkai Sha, John S. Schreck, William Chapman, David John Gagne II</strong><br>
+    <a href="https://doi.org/10.1029/2025GL118478" target="_blank"><strong>Investigating the Use of Terrain-Following Coordinates in AI-Driven Precipitation Forecasts</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2025GL118478
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2511Chapman.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Yingkai Sha, John S. Schreck, William Chapman, David John Gagne II</strong><br>
+    <a href="https://doi.org/10.1029/2025MS005138" target="_blank"><strong>Improving AI Weather Prediction Models Using Global Mass and Energy Conservation Schemes</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>:10.1029/2025MS005138
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
+    <img src="/images/news/2511SamudrACE.gif" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>James P. C. Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer K. Clark, Brian Henn, Anna Kwa, Jeremy McGibbon, W. Andre Perkins, William Gregory, Carlos Fernandez-Granda, Julius Busecke, Oliver Watt-Meyer, William J. Hurlin, Alistair Adcroft, Laure Zanna, Christopher Bretherton</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2509.12490" target="_blank"><strong>SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2509.12490
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/Hafner.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Katharina Hafner, Fernando Iglesias-Suarez, Sara Shamekh, Pierre Gentine, Marco A. Giorgetta, Robert Pincus, Veronika Eyring</strong><br>
+    <a href="https://doi.org/10.1029/2024JH000501" target="_blank"><strong>Interpretable machine learning‐based radiation emulation for icon</strong></a><br>
+    <i>Journal of Geophysical Research: Machine Learning and Computation</i> <strong>DOI</strong>:10.1029/2024JH000501
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2312-Bodner.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Abigail Bodner, Dhruv Balwada, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2025MS004991" target="_blank"><strong>A data‐driven approach for parameterizing ocean submesoscale buoyancy fluxes</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>: 10.1029/2025MS004991
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2510Griffies.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Stephen M Griffies, Alistair Adcroft, Rebecca L Beadling, Mitchell Bushuk, Chiung‐Yin Chang, Henri F Drake, Raphael Dussin, Robert W Hallberg, William J Hurlin, Hemant Khatri, John P Krasting, Matthew Lobo, Graeme A MacGilchrist, Brandon G Reichl, Aakash Sane, Olga Sergienko, Maike Sonnewald, Jacob M Steinberg, Jan‐Erik Tesdal, Matthew Thomas, Katherine E Turner, Marshall L Ward, Michael Winton, Niki Zadeh, Laure Zanna, Rong Zhang, Wenda Zhang, Ming Zhao</strong><br>
+    <a href="https://doi.org/10.1029/2024MS004861" target="_blank"><strong>The GFDL‐CM4X climate model hierarchy, Part I: Model description and thermal properties</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>:10.1029/2024MS004861
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/Shuchang2510.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Shuchang Liu, Paul A. O'Gorman</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2509.00010" target="_blank"><strong> CERA: A Framework for Improved Generalization of Machine Learning Models to Changed Climates</strong></a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2509.00010
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2509ChapmanCESM.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>William E. Chapman, Francine Schevenhoven, Judith Berner, Noel Keenlyside, Ingo Bethke, Ping-Gin Chiu, Alok Gupta, Jesse Nusbaumer</strong><br>
+    <a href="https://doi.org/10.5194/gmd-18-5451-2025" target="_blank"><strong>Implementation and validation of a supermodeling framework into Community Earth System Model version 2.1.5</strong></a><br>
+    <i>Geosci. Model Dev.</i> <strong>DOI</strong>:10.5194/gmd-18-5451-2025
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2509Shi.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Jia-Rui Shi, Laure Zanna, Alistair Adcroft</strong><br>
+    <a href="https://doi.org/10.1029/2025GL116305" target="_blank"><strong> The Impact of Natural External Forcing on Ocean Heat Uptake Efficiency Since the 1980s</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>:10.1029/2025GL116305
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2509Balwada.png" style="width: 100px; height: 100px;">
   </div>
@@ -63,6 +231,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/publications/2025-Busecke.jpg" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Julius J. M. Busecke, Dhruv Balwada, Paige E. Martin, Thomas E. G. Nicholas, Zoe C. P. Johnson, Prani Nalluri, Charles I. Stern, Ryan P. Abernathey</strong><br>
+    <a href="https://doi.org/10.1029/2025GL114951" target="_blank"><strong> The Impact of Sub-Grid Heterogeneity on Air-Sea Turbulent Heat Flux in Coupled Climate Models</strong></a><br>
+    <i>GRL 2025</i> <strong>DOI</strong>:10.1029/2025GL114951
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
     <img src="/images/news/2410Shamekh.png" style="width: 100px; height: 100px;">
   </div>
   <p>
@@ -73,17 +253,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2507Perezhogin.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Pavel Perezhogin, Alistair Adcroft, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2505.08900" target="_blank"><strong>Generalizable neural-network parameterization of mesoscale eddies in idealized and global ocean models</strong></a><br>
-    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2505.08900
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -143,6 +312,30 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Marika M Holland, Kristen Krumhardt, Alice DuVivier, Laura Landrum </strong><br>
     <a href="https://doi.org/10.1175/JCLI-D-24-0258.1" target="_blank"><strong>Regional Multiyear Predictability of Antarctic Sea Ice in CESM2 and Its Implications for Marine Ecosystems</strong></a><br>
     <i>Journal of Climate</i> <strong>DOI</strong>:10.1175/JCLI-D-24-0258.1
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+ <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2025Chapman.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>John Schreck, Yingkai Sha, William Chapman, Dhamma Kimpara, Judith Berner, Seth McGinnis, Arnold Kazadi, Negin Sobhani, Ben Kirk, David John Gagne II </strong><br>
+    <a href="https://doi.org/10.1038/s41612-025-01125-6" target="_blank"><strong>Community Research Earth Digital Intelligence Twin: a scalable framework for AI-driven Earth System Modeling</strong></a><br>
+    <i>npj Climate and Atmospheric Science</i> <strong>DOI</strong>: 10.1038/s41612-025-01125-6
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/newlogo.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <!-- <img src="/images/newlogo.png" style="width: 3vw; height: 3hw; vertical-align: middle;" alt="DOI icon"> -->
+    <strong>Fabrizio Falasca, Aurora Basinski-Ferris, Laure Zanna, Ming Zhao</strong><br>
+    <a href="https://doi.org/10.1175/JCLI-D-24-0479.1" target="_blank"><strong>A Fluctuation–Dissipation Theorem Perspective on Radiative Responses to Temperature Perturbations</strong></a><br>
+    <i>Journal of Climate</i> <strong>DOI</strong>: 10.1175/JCLI-D-24-0479.1
   </p>
 </div>
 
@@ -207,18 +400,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-
-<div style="display: flex; align-items: center;">
- <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2025Chapman.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>John Schreck, Yingkai Sha, William Chapman, Dhamma Kimpara, Judith Berner, Seth McGinnis, Arnold Kazadi, Negin Sobhani, Ben Kirk, David John Gagne II </strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2411.07814" target="_blank"><strong>Community Research Earth Digital Intelligence Twin (CREDIT)</strong></a><br>
-    <i>ArXiv 2024</i> <strong>DOI</strong>: 10.48550/arXiv.2411.07814
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -393,18 +574,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
 </div>
 
 ### 2023
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/2312-Bodner.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Abigail Bodner, Dhruv Balwada, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2312.06972" target="_blank"><strong>A Data-Driven Approach for Parameterizing Submesoscale Vertical Buoyancy Fluxes in the Ocean Mixed Layer</strong></a><br>
-    <i>Arxiv 2023.</i> <strong>DOI</strong>: 10.48550/arXiv.2312.06972
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">

@@ -2,7 +2,7 @@
 title: "Kelsey Everard"
 draft: false
 image: "/images/team/KelseyEverard.jpg"
-jobtitle: "Postdoc"
+jobtitle: "Affiliate"
 promoted: true
 weight: 20
 position: Mesoscale eddy parameterisation
