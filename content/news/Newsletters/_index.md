@@ -12,6 +12,8 @@ tags:
  
 ### 2025
 
+* 12/02/2025 - [M²LInES newsletter - December 2025](https://mailchi.mp/14605e5ed14c/m2lines-dec2025)
+
 * 11/03/2025 - [M²LInES newsletter - November 2025](https://mailchi.mp/5f5c32598bba/m2lines-nov2025)
 
 * 10/01/2025 - [M²LInES newsletter - October 2025](https://mailchi.mp/0608f769fe88/m2lines-oct2025)
