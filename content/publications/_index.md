@@ -14,48 +14,64 @@ You can also check all our publications on our **[Google Scholar profile](https:
 <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon"> M²LInES funded research
 
 ### 2026
-<div style="display: flex; align-items: center;">
-  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
-    <img src="/images/news/2607Nasser.png" style="width: 100px; height: 100px;">
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/news/2604-FloeNet.png">
   </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Antoine-Alexis Nasser, Alistair Adcroft</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2606.17497" target="_blank"><strong> Design principles for stable and generalizable data-driven discretizations for solving linear hyperbolic conservation laws</strong></a><br>
-    <i>GRL</i> <strong>DOI</strong>:10.48550/arXiv.2606.17497
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>William Gregory, Mitchell Bushuk, James Duncan, Elynn Wu, Adam Subel, Spencer K. Clark, Bill Hurlin, Oliver Watt-Meyer, Alistair Adcroft, Chris Bretherton, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2026GL122981" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></a><br>
+    <i>GRL</i> <strong>DOI</strong>: 10.1029/2026GL122981
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 400px; height: 100px; overflow: hidden;  margin-right: -50px;">
-    <img src="/images/news/2511SamudrACE.gif" style="width: 100px; height: 100px;">
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/news/2607Nasser.png">
   </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
+    <strong>Antoine-Alexis Nasser, Alistair Adcroft</strong><br>
+    <a href="https://doi.org/10.48550/arXiv.2606.17497" target="_blank">
+      <strong>Design principles for stable and generalizable data-driven discretizations for solving linear hyperbolic conservation laws</strong>
+    </a><br>
+    <i>Arxiv</i> <strong>DOI</strong>:10.48550/arXiv.2606.17497
+  </p>
+</div>
+
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/news/2511SamudrACE.gif">
+  </div>
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
     <strong>James P. C. Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer K. Clark, Brian Henn, Anna Kwa, Jeremy McGibbon, W. Andre Perkins, William Gregory, Carlos Fernandez-Granda, Julius Busecke, Oliver Watt-Meyer, William J. Hurlin, Alistair Adcroft, Laure Zanna, Christopher Bretherton</strong><br>
     <a href="https://doi.org/10.1029/2025GL119340" target="_blank"><strong>SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators</strong></a><br>
     <i>GRL</i> <strong>DOI</strong>:10.1029/2025GL119340
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/news/2603Kamm.png" style="width: 100px; height: 100px;">
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/news/2603Kamm.png">
   </div>
-  <p>
-   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
     <strong>David Kamm, Julie Deshayes, Pavel Perezhogin, Etienne Meunier, Alexis Barge</strong><br>
-    <a href="https://doi.org/10.1029/2026MS005816" target="_blank"><strong>Assessing Data-Driven Eddy-Parameterizations in an Atlantic Sector Model </strong></a><br>
+    <a href="https://doi.org/10.1029/2026MS005816" target="_blank"><strong>Assessing Data-Driven Eddy-Parameterizations in an Atlantic Sector Model</strong></a><br>
     <i>JAMES</i> <strong>DOI</strong>: 10.1029/2026MS005816
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/publications/2510Shamekh.png" style="width: 100px; height: 100px;">
+<div class="publication">
+  <div class="publication-image">
+    <img src="/images/publications/2510Shamekh.png">
   </div>
-  <p>
-   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+  <p class="publication-text">
+    <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
     <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'gorman</strong><br>
     <a href="https://doi.org/10.1175/JAS-D-25-0178.1" target="_blank"><strong>Data-driven Modeling of Stratiform and Convective Rain Area</strong></a><br>
     <i>Journal of the Atmospheric Sciences</i> <strong>DOI</strong>: 10.1175/JAS-D-25-0178.1
@@ -123,19 +139,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 200px; height: 100px; overflow: hidden; margin-right: -30px;">
-    <img src="/images/news/2604-FloeNet.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-   <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>William Gregory, Mitchell Bushuk, James Duncan, Elynn Wu, Adam Subel, Spencer K. Clark, Bill Hurlin, Oliver Watt-Meyer, Alistair Adcroft, Chris Bretherton, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.48550/arXiv.2603.12449" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></strong></a><br>
-    <i>Arxiv</i> <strong>DOI</strong>: 10.48550/arXiv.2603.12449
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
