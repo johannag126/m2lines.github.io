@@ -5,13 +5,43 @@ heroSubHeading: 'Public repository and data access'
 heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 50px; height: 50px; overflow: hidden;  margin-right: 10px;">
-   <a href="https://github.com/m2lines" target="_blank"><img src="/images/github-mark.png" style="width: 50px; height: 50px;">
+<div style="display: flex; align-items: center; gap: 15px;">
+  <div style="flex-shrink: 0;">
+    <a href="" target="_blank">
+      <img src="/images/code/osn-logo.jpg"
+           alt="OSN Logo"
+           style="width: 100px; height: auto;">
+    </a>
   </div>
-  <p>
-     Our codes are hosted on our </strong> <a href="https://github.com/m2lines" target="_blank"><strong>Github repository. </strong> Weights are hosted on <a href="https://huggingface.co/M2LInES" target="_blank"><strong>HuggingFace.</a><br> 
-     
+
+ <p style="margin: 0; font: inherit;">
+    Some of our data are hosted on our <strong>OSN pod</strong>, which can be accessed via any S3-compatible client using endpoint:
+    <code>https://nyu1.osn.mghpcc.org/</code> and bucket name: <code>m2lines-pubs</code>.
+    Here is an example
+    <a href="https://github.com/m2lines/Samudra/blob/main/scripts/clone_data.py" target="_blank"><strong>script</strong></a>.
+    <br>
+    In particular, you can find on
+    <a href="https://m2lines.github.io/Samudra/docs/data/#taking-a-look-at-each-dataset" target="_blank"><strong>this page</strong></a>
+    documentation on how to access the OM4 data.
+  </p>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: center; gap: 15px;">
+  <div style="width: 100px; flex-shrink: 0;">
+    <a href="https://github.com/m2lines" target="_blank">
+      <img src="/images/github-mark.png"
+           alt="GitHub"
+           style="width: 50px; height: 50px;">
+    </a>
+  </div>
+
+  <p style="margin: 0;">
+    Our code is hosted on our
+    <a href="https://github.com/m2lines" target="_blank"><strong>GitHub repository</strong></a>.
+    Model weights are hosted on
+    <a href="https://huggingface.co/M2LInES" target="_blank"><strong>Hugging Face</strong></a>.
   </p>
 </div>
 
