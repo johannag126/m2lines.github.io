@@ -12,4 +12,3 @@ link: ''
 The M²LInES team gathered  for its annual meeting, featuring discussions on climate science, AI, machine learning, emulators, and hybrid modeling.
 
 Invited speakers from Open Athena, AI2, and the Simons Center helped spark new ideas and strengthen partnerships with external foundations, nonprofits, and research organizations.
-

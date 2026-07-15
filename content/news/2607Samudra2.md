@@ -5,7 +5,7 @@ heroHeading: ''
 heroSubHeading: 'Samudra 2: Scaling Ocean Emulators across Resolutions'
 heroBackground: ''
 thumbnail:  'images/news/2607Samudra2.png'
-images: 
+images:
 link: 'https://doi.org/10.48550/arXiv.2606.02610'
 ---
 
@@ -13,7 +13,7 @@ Yuan Yuan and collaborators from M²LInES and Open Athena have unveiled **[Samud
 
 
 
-By slashing deep-ocean errors by **7–10×** and maintaining realistic physics, Samudra 2 turns a major computational bottleneck into an opportunity for massive ensemble modeling. This open-source breakthrough shifts climate science from rationing a few scenarios to running hundreds of plausible futures, paving the way for low-cost, decision-grade forecasting in shipping, energy, and sea-level rise. Read the full announcement in our **[latest blog post](https://medium.com/@lz1955/samudra-2-a-fast-cheap-ai-ocean-model-now-at-the-scale-that-matters-b37883c62d51)**, explore the **[project page and rollout demo](https://m2lines.github.io/Samudra/docs/)**, grab the **[code on GitHub](https://github.com/m2lines/Samudra)**, or just run it **using the weights on [Hugging Face](https://huggingface.co/M2LInES/Samudra2)**. 
+By slashing deep-ocean errors by **7–10×** and maintaining realistic physics, Samudra 2 turns a major computational bottleneck into an opportunity for massive ensemble modeling. This open-source breakthrough shifts climate science from rationing a few scenarios to running hundreds of plausible futures, paving the way for low-cost, decision-grade forecasting in shipping, energy, and sea-level rise. Read the full announcement in our **[latest blog post](https://medium.com/@lz1955/samudra-2-a-fast-cheap-ai-ocean-model-now-at-the-scale-that-matters-b37883c62d51)**, explore the **[project page and rollout demo](https://m2lines.github.io/Samudra/docs/)**, grab the **[code on GitHub](https://github.com/m2lines/Samudra)**, or just run it **using the weights on [Hugging Face](https://huggingface.co/M2LInES/Samudra2)**.
 
 
 

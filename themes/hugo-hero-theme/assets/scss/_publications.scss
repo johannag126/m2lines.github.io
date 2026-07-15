@@ -1,0 +1,28 @@
+.publication {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.publication-image {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-right: 15px;
+  flex-shrink: 0;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+.publication-text {
+  margin: 0;
+}
+
+.doi-icon {
+  width: 1.5vw;
+  height: 1.5vw;
+  vertical-align: middle;
+}
