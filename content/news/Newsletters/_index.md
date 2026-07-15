@@ -9,7 +9,7 @@ tags:
 
 
  Links to our past newsletters are below.
- 
+
 ### 2026
 
 * 07/01/2026 - [M²LInES newsletter - July 2026](https://mailchi.mp/1e6b380a8003/m2lines-july2026)

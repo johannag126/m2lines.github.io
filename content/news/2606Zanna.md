@@ -11,5 +11,3 @@ link: 'https://www.youtube.com/watch?v=zVbnjFEohsA'
 <br>
 
 ### Laure Zanna presented this [seminar](https://www.youtube.com/watch?v=zVbnjFEohsA) at the AI Institute in Dynamic Systems last week.
-
-

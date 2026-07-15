@@ -85,8 +85,8 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
  <p style="font-weight: normal; margin:-10;">
     <a href="https://doi.org/10.1029/2024GL114318" target="_blank"><strong>Samudra: An AI Global Ocean Emulator for Climate</strong></a><br>
     The first 3D global emulator for Climate, <strong> 360x faster </strong> than traditional models! <br>
-   <a href="https://github.com/m2lines/Samudra" target="_blank">Code</a> | 
-   <a href="https://huggingface.co/M2LInES/Samudra/" target="_blank">Weights</a> | 
+   <a href="https://github.com/m2lines/Samudra" target="_blank">Code</a> |
+   <a href="https://huggingface.co/M2LInES/Samudra/" target="_blank">Weights</a> |
    <a href="https://huggingface.co/datasets/M2LInES/Samudra-OM4" target="_blank">OM4-data</a>
   </p>
 </div>
@@ -101,8 +101,8 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
  <p style="font-weight: normal;">
     <a href="https://doi.org/10.48550/arXiv.2509.12490" target="_blank"><strong>SamudrACE: the coupled climate emulator</strong></a><br>
     Fast and accurate coupled ocean–atmosphere–sea-ice emulator. <br>
-	<a href="https://github.com/ai2cm/ace" target="_blank">Code</a> | 
-   <a href="https://huggingface.co/allenai/SamudrACE-CM4-piControl" target="_blank">Weights</a> 
+	<a href="https://github.com/ai2cm/ace" target="_blank">Code</a> |
+   <a href="https://huggingface.co/allenai/SamudrACE-CM4-piControl" target="_blank">Weights</a>
 
   </p>
 </div>
@@ -117,7 +117,7 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
   <p style="font-weight: normal;">
     <a href="https://github.com/NCAR/miles-credit/tree/CAMulator_V01.00" target="_blank"><strong>CAMulator: Fast Emulation of the Community Atmosphere Model</strong></a><br>
    <strong> 250× quicker</strong> than CESM CAM. <br>
-   	<a href="https://github.com/NCAR/miles-credit/tree/main/climate" target="_blank">Code</a> 
+   	<a href="https://github.com/NCAR/miles-credit/tree/main/climate" target="_blank">Code</a>
   </p>
 </div>
 
@@ -130,8 +130,8 @@ heroBackground: '/images/photo-1542831371-29b0f74f9713.jpeg'
   </div>
   <p style="font-weight: normal;">
     <a href="https://doi.org/10.48550/arXiv.2603.12449" target="_blank"><strong>FloeNet: A mass-conserving global sea ice emulator that generalizes across climates</strong></a><br>
-    <a href="https://github.com/ai2cm/ace" target="_blank">Code</a> | 
-   <a href="https://huggingface.co/M2LInES/FloeNet-OM4" target="_blank">Weights</a> 
+    <a href="https://github.com/ai2cm/ace" target="_blank">Code</a> |
+   <a href="https://huggingface.co/M2LInES/FloeNet-OM4" target="_blank">Weights</a>
   </p>
 </div>
 
