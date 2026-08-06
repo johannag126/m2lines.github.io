@@ -2,7 +2,7 @@
 title: "Arthur Guillaumin"
 draft: false
 image: "images/team/Arthur.jpeg"
-jobtitle: "Affiliate"
+jobtitle: "Machine Learning Researcher | Lecturer"
 linkedinurl: ""
 promoted: true
 Website: https://www.qmul.ac.uk/maths/profiles/arthurguillaumin.html

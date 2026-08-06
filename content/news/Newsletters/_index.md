@@ -12,9 +12,11 @@ tags:
 
 ### 2026
 
-* 07/01/2026 - [M²LInES newsletter - July 2026](https://mailchi.mp/1e6b380a8003/m2lines-july2026)
+* 08/06/2026 - [AI and the Next Generation of Climate Models - August 2026](https://mailchi.mp/eafe7c4b8e1d/m2lines-aug2026)
 
-* 06/02/2026 - [M²LInES newsletter - June 2026](https://mailchi.mp/25cfd79a0287/m2lines-june2026)
+* 07/01/2026 - [Research Highlights and Community Updates - July 2026](https://mailchi.mp/1e6b380a8003/m2lines-july2026)
+
+* 06/02/2026 - [What is happening at M²LInES - June 2026](https://mailchi.mp/25cfd79a0287/m2lines-june2026)
 
 * 05/01/2026 - [M²LInES newsletter - May 2026](https://mailchi.mp/0ea31f7e9316/m2lines-may2026)
 

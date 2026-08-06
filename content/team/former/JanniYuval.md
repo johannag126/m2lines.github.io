@@ -2,7 +2,7 @@
 title: "Janni Yuval"
 draft: false
 image: "images/team/Janni.png"
-jobtitle: "Affiliate"
+jobtitle: "Research Scientist"
 promoted: true
 Website: https://yaniyuval.wixsite.com/janniy
 weight: 15

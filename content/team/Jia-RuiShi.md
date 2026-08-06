@@ -2,7 +2,7 @@
 title: "Jia-Rui (Ray) Shi"
 draft: false
 image: "/images/team/Jia-RuiShi.png"
-jobtitle: "Research Scientist"
+jobtitle: "Affiliate"
 promoted: true
 position: Climate Science
 weight: 15

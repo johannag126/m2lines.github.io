@@ -72,11 +72,25 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </div>
   <p class="publication-text">
     <img src="/images/newlogo.png" class="doi-icon" alt="DOI icon">
-    <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'gorman</strong><br>
+    <strong>Sara Shamekh, Pedro Angulo-Umana, Paul A O'Gorman</strong><br>
     <a href="https://doi.org/10.1175/JAS-D-25-0178.1" target="_blank"><strong>Data-driven Modeling of Stratiform and Convective Rain Area</strong></a><br>
     <i>Journal of the Atmospheric Sciences</i> <strong>DOI</strong>: 10.1175/JAS-D-25-0178.1
+     <a href="/files/Shamekh_et_al.2026.pdf" target="_blank"><strong>; PDF</strong></a><br>
   </p>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
+    <img src="/images/news/2511DanniDu.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Danni Du, Feiyu Lu, Alistair Adcroft.</strong><br>
+    <a href="https://doi.org/10.1029/2026MS005736" target="_blank"><strong>Reducing Model Biases with Machine Learning Corrections Derived from Ocean Data Assimilation Increments</strong></a><br>
+    <i>JAMES</i> <strong>DOI</strong>:10.1029/2026MS005736
+  </p>
+</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -228,17 +242,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/2511DanniDu.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Danni Du, Feiyu Lu, Alistair Adcroft.</strong><br>
-    <a href="https://doi.org/10.22541/essoar.176083747.76188196/v2" target="_blank"><strong>Reducing Model Biases with Machine Learning Corrections Derived from Ocean Data Assimilation Increments</strong></a><br>
-    <i>Authorea Preprints</i> <strong>DOI</strong>:10.22541/essoar.176083747.76188196/v2
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -423,18 +426,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/publications/2504-Verma.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Tarun Verma, Feiyu Lu, Alistair Adcroft, Laure Zanna, Anand Gnanadesikan</strong><br>
-    <a href="https://doi.org/10.22541/essoar.174547920.05119265/v1" target="_blank"><strong>Deep Learning of Systematic Ocean Model Errors in a Coupled GCM from Data Assimilation Increments</strong></a><br>
-    <i>Essoar</i> <strong>DOI</strong>:10.22541/essoar.174547920.05119265/v1
-  </p>
-</div>
-
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -591,6 +582,18 @@ You can also check all our publications on our **[Google Scholar profile](https:
     <strong>Dmitrii Kochkov, ... Stephan Hoyer</strong><br>
     <a href="https://doi.org/10.1038/s41586-024-07744-y" target="_blank"><strong>Neural general circulation models for weather and climate</strong></a><br>
     <i>Nature 2024</i> <strong>DOI</strong>: 10.1038/s41586-024-07744-y
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
+    <img src="/images/publications/lces_23.png" style="width: 100px; height: 100px;">
+  </div>
+  <p>
+    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
+    <strong>Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna</strong><br>
+    <a href="https://doi.org/10.1029/2023MS003874" target="_blank"><strong>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges.</strong></a><br>
+    <i>JAMES. 2024.</i> <strong>DOI</strong>: 10.1029/2023MS003874
   </p>
 </div>
 
@@ -806,17 +809,7 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden; margin-right: 10px;">
-    <img src="/images/publications/lces_23.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Karan Jakhar, Yifei Guan, Rambod Mojgani, Ashesh Chattopadhyay, Pedram Hassanzadeh, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.22541/essoar.168677212.21341231/v1" target="_blank"><strong>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges.</strong></a><br>
-    <i>ESS Open Archive. 2023.</i> <strong>DOI</strong>: 10.22541/essoar.168677212.21341231/v1
-  </p>
-</div>
+
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
@@ -916,18 +909,6 @@ You can also check all our publications on our **[Google Scholar profile](https:
   </p>
 </div>
 
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
-    <img src="/images/news/0523-Chengetal.png" style="width: 100px; height: 100px;">
-  </div>
-  <p>
-    <img src="/images/newlogo.png" style="width: 1.5vw; height: 1.5hw; vertical-align: middle;" alt="DOI icon">
-    <strong>Cheng Zhang, Pavel Perezhogin, Cem Gultekin, Alistair Adcroft, Carlos Fernandez-Granda, Laure Zanna</strong><br>
-    <a href="https://doi.org/10.1029/2023MS003697" target="_blank"><strong>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a <br> Numerical Ocean Circulation Model</strong></a><br>
-    <i>JAMES 2023.</i> <strong>DOI</strong>: 10.1029/2023MS003697
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <div style="width: 100px; height: 100px; overflow: hidden;  margin-right: 10px;">
