@@ -5,7 +5,7 @@ image: "/images/team/YuanpuLi.jpeg"
 jobtitle: "Postdoc"
 promoted: true
 weight: 20
-Website: 
+Website:
 position:
 tags: [Atmosphere, Machine Learning, Climate Model Development]
 ---
